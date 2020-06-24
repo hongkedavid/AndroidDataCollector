@@ -1,0 +1,11 @@
+#Mon Feb 20 21:54:56 EST 2017
+SERVER_PORT=22
+DATA_DIR=/sdcard/datacollector/data/
+USER=david
+LAST_UPLOAD=1487645696863
+APK_CONF=/nfs/rome2/david/datacollector/verson.conf
+REMOTE_DIR=/nfs/rome2/david/datacollector/
+SERVER_IP=rome.eecs.umich.edu
+KEY_FILE=/sdcard/datacollector/id_rsa
+APK_FILE=/nfs/rome2/david/datacollector/datacollector.apk
+UPLOAD_STATE=ON
